@@ -1,5 +1,5 @@
 {
-  "address": "",
+  "address": "0x8805a94569d178a90d1c6babf0b7808b80e10f67",
   "description": "The Llama 3.2 1B model with a Paris tour guide.",
   "domain": "gaia.domains",
   "llamaedge_port": "8080",
